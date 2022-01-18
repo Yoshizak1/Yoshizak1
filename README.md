@@ -1,8 +1,7 @@
 ## Oi! Eu sou o João Yoshizaki
 
-- 🔭 Estudante do Ensino Médio
+- 🔭 Formado no curso Técnico de Informática para Internet
 - 🌱 Estudando HTML, CSS e JavaScript
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/Yoshizak1">
