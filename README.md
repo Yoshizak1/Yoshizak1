@@ -20,4 +20,6 @@
   <img align="right" alt="John-pic" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 </div>
   
+ ![Snake animation](https://github.com/Yoshizak1/Yoshizak1/blob/output/github-contribution-grid-snake.svg)
+  
   ##
