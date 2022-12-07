@@ -1,7 +1,7 @@
 ## Oi! Eu sou o João Yoshizaki
 
-- 🔭 Formado no curso Técnico de Informática para Internet
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🔭 Formado no curso Técnico de Informática para Internet na ETEC
+- 🌱 Estudando HTML, CSS e JavaScript e outras tecnologias
 
 <div>
   <a href="https://github.com/Yoshizak1">
