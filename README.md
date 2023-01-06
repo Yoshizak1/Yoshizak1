@@ -20,6 +20,17 @@
   <img align="right" alt="John-pic" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 </div>
   
+  <br>
+ 
+  ### Para entrar em contato comigo, me segue nas redes abaixo!
+ 
+<div> 
+  <a href="https://www.instagram.com/_yoshizaki/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:yoshizakix@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yoshizaki/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+  
  ![Snake animation](https://github.com/Yoshizak1/Yoshizak1/blob/output/github-contribution-grid-snake.svg)
   
   ##
