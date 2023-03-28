@@ -1,5 +1,6 @@
 ## Oi! Eu sou o João Yoshizaki
 
+- 🤖 Estudante de Ciência da computação
 - 🔭 Formado no curso Técnico de Informática para Internet na ETEC
 - 🌱 Estudando HTML, CSS e JavaScript e outras tecnologias
 
