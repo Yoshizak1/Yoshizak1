@@ -74,9 +74,10 @@
 </table>
 <br><br><br><br><br><br><br><br><br><br><br>
 
-  ### Minhas redes sociais!
  
-<div> 
+ 
+<div align="left"> 
+   ### Minhas redes sociais!
   <a href="https://www.instagram.com/_yoshizaki/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yoshizaki/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
