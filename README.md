@@ -87,25 +87,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite.JS icon"/><br/>
-      <sub>
-        <b>
-          <pre>Vite.JS</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-
-   <tr>
-     <td align="center">
-      <img src="https://skillicons.dev/icons?i=gulp" width="65px" alt="Gulp icon"/><br/>
-      <sub>
-        <b>
-          <pre>Gulp</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br/>
       <sub>
         <b>
@@ -113,15 +94,6 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
-      <sub>
-        <b>
-          <pre>Linux</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
 </table>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
