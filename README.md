@@ -63,25 +63,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
-      <sub>
-        <b>
-          <pre>Sass</pre>
-        </b>
-      </sub>
-    </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.JS icon"/><br/>
-    <sub>
-      <b>
-        <pre>Node.JS</pre>
-      </b>
-    </sub>
-   </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br/>
       <sub>
         <b>
@@ -102,14 +83,6 @@
       <sub>
         <b>
           <pre>Figma</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React.JS icon"/><br/>
-      <sub>
-        <b>
-          <pre>React.JS</pre>
         </b>
       </sub>
     </td>
