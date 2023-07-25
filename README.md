@@ -32,7 +32,129 @@
   <a href="https://www.linkedin.com/in/yoshizaki/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-   
+
+   ### :rocket: &nbsp;**Minhas habilidades**
+
+<img align="right" src="./images/programando.gif" alt="Menino programando" height="220px">
+
+<table align="left" height="255px">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML icon"/><br/>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS icon"/><br/>
+      <sub>
+        <b>
+          <pre>CSS3</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br/>
+      <sub>
+        <b>
+          <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
+      <sub>
+        <b>
+          <pre>Sass</pre>
+        </b>
+      </sub>
+    </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.JS icon"/><br/>
+    <sub>
+      <b>
+        <pre>Node.JS</pre>
+      </b>
+    </sub>
+   </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br/>
+      <sub>
+        <b>
+          <pre>Git</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br/>
+      <sub>
+        <b>
+          <pre>GitHub</pre>
+        </b>
+      </sub>
+     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br/>
+      <sub>
+        <b>
+          <pre>Figma</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React.JS icon"/><br/>
+      <sub>
+        <b>
+          <pre>React.JS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite.JS icon"/><br/>
+      <sub>
+        <b>
+          <pre>Vite.JS</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+   <tr>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=gulp" width="65px" alt="Gulp icon"/><br/>
+      <sub>
+        <b>
+          <pre>Gulp</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br/>
+      <sub>
+        <b>
+          <pre>VS Code</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
+      <sub>
+        <b>
+          <pre>Linux</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+##
   
   
   ##
